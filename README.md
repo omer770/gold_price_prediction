@@ -2,4 +2,3 @@
 Predicting house price 
 d
 y
-y
