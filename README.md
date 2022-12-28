@@ -1,2 +1,7 @@
 # gold_price_prediction
-Predicting house price-
+Predicting house price
+1
+2
+5
+6
+8
