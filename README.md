@@ -3,4 +3,3 @@ Predicting house price
 1
 2
 5
-6
